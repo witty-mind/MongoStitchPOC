@@ -1,0 +1,18 @@
+
+Jsquid:S1068")Remove this unused "_main" private field.(ÅÖ‚×ıÿÿÿÿ8 Ñ„Õş,
+rsquid:S1450"VRemove the "_client" field and declare it as a local variable in the relevant methods.(ğ±é8 Ñ„Õş,
+|squid:S1450"[Remove the "_mongoClient" field and declare it as a local variable in the relevant methods.(¼İ„Ğÿÿÿÿÿ8 Ñ„Õş,
+Gsquid:S1481"+Remove this unused "cursor" local variable.(à÷·›8 Ñ„Õş,
+Isquid:S1604"(Make this anonymous inner class a lambda(ş€ò˜úÿÿÿÿ8 Ñ„Õş,
+Dsquid:S1604"(Make this anonymous inner class a lambda(ÏµßÖ8 Ñ„Õş,
+Vsquid:S1854":Remove this useless assignment to local variable "cursor".(à÷·›8 Ñ„Õş,
+osquid:S00116"RRename this field "_client" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ±é8 Ñ„Õş,
+ysquid:S00116"WRename this field "_mongoClient" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼İ„Ğÿÿÿÿÿ8 Ñ„Õş,
+~squid:S00116"\Rename this field "_remoteCollection" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È§Çœüÿÿÿÿ8 Ñ„Õş,
+rsquid:S00116"PRename this field "_main" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÖ‚×ıÿÿÿÿ8 Ñ„Õş,
+msquid:S00116"PRename this field "_user" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ÈŠ8 Ñ„Õş,
+ˆsquid:UselessImportCheck"_Remove this unused import 'com.mongodb.stitch.core.services.mongodb.remote.RemoteUpdateResult'.(ÖğÙĞ8 Ñ„Õş,
+squid:UselessImportCheck"`Remove this unused import 'com.mongodb.stitch.core.services.mongodb.remote.RemoteUpdateOptions'.(Ôƒûÿÿÿÿ8 Ñ„Õş,
+[squid:UselessImportCheck"-Remove this unused import 'android.Manifest'.(¦øïúÿÿÿÿ8 Ñ„Õş,
+osquid:UselessImportCheck"FRemove this unused import 'com.google.android.gms.tasks.Continuation'.(§¢Àı8 Ñ„Õş,
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8 Ñ„Õş,
