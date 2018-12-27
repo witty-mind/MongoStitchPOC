@@ -112,8 +112,10 @@ public class MainActivity extends AppCompatActivity {
             // Is this change coming from local or remote?
             if (event.hasUncommittedWrites()) { //change initiated on the device
                 Log.d("STITCH", "Local change to document " + documentId);
+                Toast.makeText(MainActivity.this, "Local change to document", Toast.LENGTH_SHORT).show();
             } else { //remote change
                 Log.d("STITCH", "Remote change to document " + documentId);
+                Toast.makeText(MainActivity.this, "Remote change to document", Toast.LENGTH_SHORT).show();
             }
         }
     }
